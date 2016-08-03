@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<!--where does .clear fit in?, why won't font color change? -->
-<head>
-	
-	<style type="text/css">
+
 	
 		body {  
 				height: auto; 
@@ -145,47 +140,4 @@
 				text-align: center;
 		}
 
-
-
-
-
-
-	</style>
-</head>
-
-<body>
-	
-	<div id="header"><br><br>header</div>
-
-	<p></p>
-
-	<div id="nav"><br><br>nav</div><br>
-
-	
-	<div id="parent">
-		
-		<div id="section"><br><br>section 
-		
-			<div id="article"><br>article
-
-				<div id="h1"><br>h1, h2, h3</div>
-
-				<div id="p"><br>p</div>
-
-			</div>
-
-		</div>
-
-		
-
-
-		<div id="aside"><br><br>aside</div><br>
-	
-	</div>
-	
-
-
-	<div id="footer"><br><br>footer</div>
-
-</body>
 
